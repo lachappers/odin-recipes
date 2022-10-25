@@ -1,3 +1,36 @@
 body {
     font-family: sans-serif;
+    background-color: rgb(176, 232, 214);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(246, 238, 223);
+    margin-right: 0%;
+    margin-left: 0%;
+    height: max-content;
+    padding: 2pt;
+}
+
+.cent{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.favourites {
+    height: auto;
+    width: 200 ;
+    background-color: rgb(246, 238, 223);
+    padding: 1%;
+    margin-top: 10%;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: rgba(215, 228, 224, 0.947);
+    margin-left: 0%;
+    margin-right: 0%;
 }
